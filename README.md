@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @voltareli
-- 👀 I’m interested in Html,Css,Js,Lua,Python
-- 🌱 I’m currently learning Js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Oi, eu sou o Lucas
+- 👀 Estou aprendendo Html, css e js
+- 🌱 Tenho interesse em React
