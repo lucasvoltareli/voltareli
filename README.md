@@ -1,3 +1,3 @@
 - 👋 Oi, eu sou o Lucas
-- 👀 Estou aprendendo Html, css e js
-- 🌱 Tenho interesse em React
+- 📚 Estou aprendendo Html, css e js
+- 🎉 Tenho interesse em React
